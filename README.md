@@ -8,5 +8,7 @@ First you need to install these following dependencies:
   3.opencv-python
   
   4.imageai
+  
+  
  
 run Recognization.py
